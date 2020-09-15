@@ -1,1 +1,1 @@
-# coq-typeclasses-examples
+# some-coq-code
